@@ -5,5 +5,13 @@
   border: 1px solid #ccc;
   border-radius: 4px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  margin-top: 0.5em;}
-
+  margin-top: 0.5em;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  color: #140101;
+} p {
+  margin: 0;
+  line-height: 1.5;
+} b {
+  font-weight: bold;
+}
